@@ -21,5 +21,5 @@ app.use(function* () {
 });
 
 app.listen(config.port, () =>
-    console.log(`<%=appname%> running on '${process.env.NODE_ENV || 'local'}' at port ${config.port}`)
+    console.log(`<%=appname%> running on '${process.env.NODE_ENV || 'local'}' at port ${config.port}`) // eslint-disable-line
 );

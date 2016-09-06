@@ -9,8 +9,7 @@ import { syncHistoryWithStore, routerMiddleware } from 'react-router-redux';
 import { AppProvider, Application } from './core';
 import {
     NotFound,
-    Home,
-    Login
+    Home
 } from './containers';
 
 const router = routerMiddleware(browserHistory);
