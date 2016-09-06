@@ -2,6 +2,8 @@
 
 This is a simple [yeoman](http://yeoman.io) generator of a single page application using React, Redux, and Koa.
 
+## This is a work in progress. Not deployed to npm yet.
+
 ## Installation
 
 **NodeJS 4+ required**
