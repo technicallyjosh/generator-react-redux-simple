@@ -11,5 +11,5 @@ deploy:
   api_key:
     secure: Bu6sU1nmasSjDhQLwFl3N+EysMSX+SH7mq/k4Ulw/sPHCwyl6tAsuzjwSj2/Ju2vQEK14lXyt95HttAdPDZj9hAMx+QllOofROxvqyZgG09cBmG+S1Gi4HPG/vDBY51nSgF1y17fbA/cX3Qeylw+PasfXH95vsP0ZF3CZVcLLJxO9Vi0MehEaNIoF813oBnZ1zkRFtSGNyypIQxwN3NSNVVMmRiPo43E+UoWzv/ZfqOE7eW9xPqM//eP9Cbg8aunwFqcYFzkVPQ9m7yyYEJSAQhvXf6DYsZIr3q7WfSTZ5Mew4yGkHnCQI9zg+5RyZZnkaIAU2q3r9jQ4M+hqyO4guI/uDLZ+uCFUZ4c3CrE2t+nlED+/M7lKmVgzBdsIl8bWldqSCgMqJCKqpnH04z4I/vjWVdIilY0iiwBjo7EctvtgxSpg9PBsh39sGUGSJb5pUXM6EfKkPAYSLz4eaNzdARTdIEWaV58Zq5vUeEV48aQSr6WJIEURPArtIT9eSUKJJBUYjir4b3PprPxXPMvsmGloD+Egd90IMydPjiatWvj3ia2LUgP6fyosnCsuJ2B3TGV+/iKfiyGpELAirkYcLnvtIJj4smwP0JlktcZ3Wb9nOB2Beg5D+Dq8GP21TNdZnWjDu4LHgzIHT5syM1rnt9VaJDIlnTOG7v6pxpr+oI=
   on:
-    tags: true
+    tags: false
     repo: technicallyjosh/generator-react-redux-simple
