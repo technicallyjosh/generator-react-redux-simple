@@ -6,14 +6,12 @@ This is a simple [yeoman](http://yeoman.io) generator of a single page applicati
 
 ## Installation
 
-**This is not published yet**. If you wish to try it out without the global generator, you can clone this repo, run `npm link`, and then run `yo react-redux-simple` in a new directory.
-
-<!-- **NodeJS 4+ required**
+**NodeJS 4+ required**
 
 ```bash
 npm install -g yo
 npm install -g generator-react-redux-simple
-``` -->
+```
 
 ## Build It
 
