@@ -1,5 +1,7 @@
 # generator-react-redux-simple
 
+[![Build Status](https://travis-ci.org/technicallyjosh/generator-react-redux-simple.svg?branch=master)](https://travis-ci.org/technicallyjosh/generator-react-redux-simple)
+
 This is a simple [yeoman](http://yeoman.io) generator of a single page application using React, Redux, and Koa.
 
 ## Installation
