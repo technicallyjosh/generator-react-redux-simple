@@ -47,8 +47,8 @@ module.exports = yeoman.Base.extend({
         ];
 
         return this.prompt(prompts).then(props => {
-            this.props.appname = cleanAppname(props.appname);
-            
+            props.appname = cleanAppname(props.appname);
+
             this.props = props;
         });
     },
