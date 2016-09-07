@@ -1,6 +1,6 @@
 {
   "name": "generator-react-redux-simple",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yeoman generator for a simple React/Redux application using Koa as the server",
   "homepage": "https://github.com/technicallyjosh/generator-react-redux-simple",
   "scripts": {
